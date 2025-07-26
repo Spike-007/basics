@@ -1,0 +1,6 @@
+AMI_ID="ami-0a7d80731ae1b2435"         # Ubuntu 22.04 AMI ID
+INSTANCE_TYPE="t2.micro"
+KEY_NAME="devops-key"
+SECURITY_GROUP="sg-02eec384af985b2d0"  # Replace with your security group ID
+REGION="us-east-1"
+INSTANCE_DURATION=600                  # in seconds (e.g., 600 = 10 min)
